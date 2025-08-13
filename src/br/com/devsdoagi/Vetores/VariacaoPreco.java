@@ -1,5 +1,5 @@
 /*
-AUTOR: Higor do Nascimento Passarela
+AUTOR: Henrique Gonçalves Mourão
 Data: 11/08/2025
 Obs: Programa que:
 receba um vetor com os preços diários de uma ação durante 5 dias.

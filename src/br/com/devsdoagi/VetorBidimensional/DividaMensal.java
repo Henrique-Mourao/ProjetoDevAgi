@@ -1,8 +1,7 @@
 /*
-AUTOR: Higor do Nascimento Passarela
+AUTOR: Henrique Gonçalves Mourão
 Data: 12/08/2025
-Obs: Programa que:
-ada uma matriz 3x4 que representa dívidas mensais de 3 clientes em 4 meses, crie um método
+Obs:Matriz 3x4 que representa dívidas mensais de 3 clientes em 4 meses, crie um método
 para encontrar o maior valor da matriz.
 double encontrarMaiorValor(double[][] matriz);
 */

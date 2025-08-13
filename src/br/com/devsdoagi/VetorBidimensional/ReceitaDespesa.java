@@ -1,5 +1,5 @@
 /*
-AUTOR: Higor do Nascimento Passarela
+AUTOR: Henrique Gonçalves Mourão
 Data: 12/08/2025
 Obs: Programa que:
 Crie um método para preencher uma matriz 2x2 com receitas e despesas. Depois, crie um método

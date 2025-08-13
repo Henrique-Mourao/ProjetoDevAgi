@@ -1,5 +1,5 @@
 /*
-AUTOR: Higor do Nascimento Passarela
+AUTOR: Henrique Gonçalves Mourão
 Data: 13/08/2025
 Obs: Programa que:
 Crie um método que calcule o total de saldos de uma matriz 3x2 (clientes x meses) e outro

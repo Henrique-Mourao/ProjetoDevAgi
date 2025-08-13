@@ -1,8 +1,7 @@
 package br.com.devsdoagi.Vetores;
 
 /*
-AUTOR:
-Higor do Nascimento Passarela
+AUTOR:Henrique Gonçalves Mourão
 Data: 11/08/2025
 Obs: Programa que:
 Receba um vetor com os preços diários de uma ação ao longo de 10 dias.

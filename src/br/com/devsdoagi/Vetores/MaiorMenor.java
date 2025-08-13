@@ -1,5 +1,5 @@
 /*
-AUTOR: Higor do Nascimento Passarela
+AUTOR: Henrique Gonçalves Mourão
 Data: 12/08/2025
 Obs: Programa que:
 Recebe os preços de fechamento de uma ação durante 10 dias.
