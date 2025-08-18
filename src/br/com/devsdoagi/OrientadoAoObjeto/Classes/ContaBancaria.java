@@ -11,7 +11,7 @@ Data: 18/08/2025*/
 
 package br.com.devsdoagi.OrientadoAoObjeto.Classes;
 
-public class ContaBancaria {
+/*public class ContaBancaria {
     private String titular;
     private String numeroConta;
     private double saldo;
@@ -19,6 +19,7 @@ public class ContaBancaria {
     public void setTitular(String titular) {
         this.titular = titular;
     }
+
 
     public String getTitular() {
         return this.titular;
@@ -49,9 +50,9 @@ public class ContaBancaria {
             System.out.println("Saldo Insulficiente!!");
         }
     }
-        public void exibirExtrato(){
-            System.out.println("Titular: " + getTitular());
-            System.out.println("Numero da Conta:" + getNumeroConta());
-            System.out.println("Saldo:" + this.saldo);
-        }
+    public void exibirExtrato(){
+        System.out.println("Titular: " + getTitular());
+        System.out.println("Numero da Conta:" + getNumeroConta());
+        System.out.println("Saldo:" + this.saldo);
     }
+ }*/
