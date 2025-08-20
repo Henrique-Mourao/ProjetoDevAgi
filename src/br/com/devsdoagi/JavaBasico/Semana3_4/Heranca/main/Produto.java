@@ -12,11 +12,12 @@
 * AUTHOR:Henrique Gonçalves Mourão
 * */
 
-        package br.com.devsdoagi.JavaBasico.Semana3_4.Heranca.main;
+package br.com.devsdoagi.JavaBasico.Semana3_4.Heranca.main;
 import br.com.devsdoagi.JavaBasico.Semana3_4.Heranca.Filho.ProdutoPerecivel;
 public class Produto {
     public static void main(String[] args) {
-        ProdutoPerecivel pp = new ProdutoPerecivel("1000", "Energetico", 1000, "10/10/2000");
-        pp.processarProduto();
+        ProdutoPerecivel pp = new ProdutoPerecivel("001", "Leite", 5.0, "2025-05-01");
+        System.out.println("Produto: " + pp.getNome());
+        System.out.println("Vencido em 2025-07-01? " + pp.estaVencido("2025-07-01"));
     }
 }

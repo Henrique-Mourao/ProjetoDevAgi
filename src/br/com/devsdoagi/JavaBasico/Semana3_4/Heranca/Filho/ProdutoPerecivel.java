@@ -13,5 +13,13 @@ public class ProdutoPerecivel extends Produto {
             System.out.println("O produto " + nome + " com o código: " + codigo + " está custando: R$" + preco + " com a data de validade " + dataValidade);
 
         }
+    public boolean estaVencido(String dataAtual) {
+        return dataValidade.compareTo(dataAtual) < 0;
     }
+
+    public String getDataValidade() {
+        return dataValidade;
+    }
+
+}
 
