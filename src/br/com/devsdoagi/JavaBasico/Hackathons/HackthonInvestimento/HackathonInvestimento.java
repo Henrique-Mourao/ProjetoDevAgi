@@ -15,7 +15,7 @@
  * Data: 05/08/2025
  */
 
-package br.com.devsdoagi.JavaBasico.Hackathons;
+package br.com.devsdoagi.JavaBasico.Hackathons.HackthonInvestimento;
 import java.util.Scanner;
 
 public class HackathonInvestimento {

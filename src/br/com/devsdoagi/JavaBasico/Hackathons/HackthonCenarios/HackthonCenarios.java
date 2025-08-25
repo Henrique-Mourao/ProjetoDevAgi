@@ -1,10 +1,10 @@
-package br.com.devsdoagi;
+package br.com.devsdoagi.JavaBasico.Hackathons.HackthonCenarios;
 import java.util.Arrays;
 import java.util.Scanner;
 
 // Feito com amor, e cuidado Pelos integrantes Gabriel Paraiso, Nayani Carvalho, Henrique Mourão, Matheus Oliveira, Ana carolina Cordeiro
 
-public class exec {
+public class HackthonCenarios {
 
     public static double[][] gerarMatrizCenarios(int idadeAtual, int idadeAposentadoria, double contribuicaoMensal, double[] taxasAnuais) {
         int anos = idadeAposentadoria - idadeAtual;
