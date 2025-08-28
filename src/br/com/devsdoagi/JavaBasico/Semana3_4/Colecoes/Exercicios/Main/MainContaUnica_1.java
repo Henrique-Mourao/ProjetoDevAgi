@@ -5,24 +5,20 @@ import java.util.HashSet;
 import java.util.Set;
 
 
-public class Main {
+public class MainContaUnica_1 {
     public static void main(String[] args) {
         Set<Integer> contas = new HashSet<>();
 
-        // Adicionar contas
+
         adicionarConta(contas, 1001);
         adicionarConta(contas, 1002);
-        adicionarConta(contas, 1001); // repetida
+        adicionarConta(contas, 1001);
 
-        // Verificar contas (sem true/false)
         existeConta(contas, 1002);
         existeConta(contas, 2000);
 
-        // Exibir todas as contas
         exibirContas(contas);
     }
-
-    // -------- Métodos --------
 
     public static void adicionarConta(Set<Integer> contas, int numeroConta) {
         System.out.println(contas.add(numeroConta)
@@ -32,8 +28,8 @@ public class Main {
 
     public static void existeConta(Set<Integer> contas, int numeroConta) {
         System.out.println(contas.contains(numeroConta)
-                ? "✅ Conta " + numeroConta + " já está cadastrada."
-                : "❌ Conta " + numeroConta + " não foi encontrada.");
+                ? " Conta " + numeroConta + " já está cadastrada."
+                : " Conta " + numeroConta + " não foi encontrada.");
     }
 
     public static void exibirContas(Set<Integer> contas) {

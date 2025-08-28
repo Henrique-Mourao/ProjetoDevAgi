@@ -1,4 +1,4 @@
-package br.com.devsdoagi.JavaBasico.Semana3_4.Colecoes;
+package br.com.devsdoagi.JavaBasico.Semana3_4.Colecoes.Exemplos;
 
 import java.util.LinkedList;
 
